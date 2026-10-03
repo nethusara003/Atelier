@@ -7,6 +7,20 @@ typography, film grain, and restrained, luxurious motion.
 **Artist persona:** Elena Voss — painter & ceramicist, Atelier Voss, Paris (fictional,
 with realistic sample catalogue, journal and press).
 
+## Screenshots
+
+<div align="center">
+  <img src="docs/screenshots/homepage.png" alt="Atelier Voss homepage" width="900" />
+</div>
+
+<div align="center">
+  <img src="docs/screenshots/gallery.png" alt="Atelier Voss gallery" width="900" />
+</div>
+
+<div align="center">
+  <img src="docs/screenshots/artwork.png" alt="Atelier Voss artwork detail page" width="900" />
+</div>
+
 ## Stack
 
 | Layer | Choice |
